@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: plamtop-pig-dynamic-datasource
+Implementation-Version: 4.0.0
+Built-By: Administrator
+Implementation-Vendor-Id: io.pig
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://www.Plamtoppig.io/plamtop-pig-dynamic-data
+ source
+Created-By: Maven Integration for Eclipse
+
