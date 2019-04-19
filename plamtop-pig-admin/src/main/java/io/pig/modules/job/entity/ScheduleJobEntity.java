@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * 定时任务
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Data
 @TableName("schedule_job")

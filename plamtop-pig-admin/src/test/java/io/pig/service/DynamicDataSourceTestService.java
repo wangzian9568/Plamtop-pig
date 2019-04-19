@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 测试多数据源
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Service
 //@DataSource("slave1")

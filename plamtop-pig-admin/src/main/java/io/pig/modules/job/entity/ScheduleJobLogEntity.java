@@ -19,7 +19,7 @@ import java.util.Date;
 /**
  * 定时任务日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Data
 @TableName("schedule_job_log")

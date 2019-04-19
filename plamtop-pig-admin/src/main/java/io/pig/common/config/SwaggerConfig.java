@@ -22,7 +22,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Swagger配置
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Configuration
 @EnableSwagger2

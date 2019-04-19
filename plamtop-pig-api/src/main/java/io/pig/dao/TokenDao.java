@@ -17,7 +17,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 用户Token
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Mapper
 public interface TokenDao extends BaseMapper<TokenEntity> {

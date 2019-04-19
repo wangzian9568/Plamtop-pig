@@ -15,7 +15,7 @@ import io.pig.entity.TokenEntity;
 /**
  * 用户Token
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface TokenService extends IService<TokenEntity> {
 

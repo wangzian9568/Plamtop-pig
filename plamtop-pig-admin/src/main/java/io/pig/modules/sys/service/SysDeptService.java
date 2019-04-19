@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 部门管理
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface SysDeptService extends IService<SysDeptEntity> {
 

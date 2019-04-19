@@ -19,7 +19,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 系统配置信息
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Mapper
 public interface SysConfigDao extends BaseMapper<SysConfigEntity> {

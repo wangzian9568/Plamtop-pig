@@ -17,7 +17,7 @@ import io.pig.modules.sys.entity.SysUserEntity;
 /**
  * Controller公共组件
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public abstract class AbstractController {
 	protected Logger logger = LoggerFactory.getLogger(getClass());

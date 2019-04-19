@@ -21,7 +21,7 @@ import io.pig.common.exception.RRException;
 /**
  * Redis切面处理类
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Aspect
 @Component

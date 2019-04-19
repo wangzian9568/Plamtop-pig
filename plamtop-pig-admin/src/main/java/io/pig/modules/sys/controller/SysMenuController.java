@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * 系统菜单
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @RestController
 @RequestMapping("/sys/menu")

@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * 用户与角色对应关系
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface SysUserRoleService extends IService<SysUserRoleEntity> {
 	

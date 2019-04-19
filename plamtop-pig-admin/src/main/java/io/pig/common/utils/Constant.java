@@ -11,7 +11,7 @@ package io.pig.common.utils;
 /**
  * 常量
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class Constant {
 	/** 超级管理员ID */

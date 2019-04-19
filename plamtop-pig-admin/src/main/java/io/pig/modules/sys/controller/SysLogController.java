@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * 系统日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Controller
 @RequestMapping("/sys/log")

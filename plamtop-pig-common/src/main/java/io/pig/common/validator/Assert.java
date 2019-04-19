@@ -15,7 +15,7 @@ import io.pig.common.exception.RRException;
 /**
  * 数据校验
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public abstract class Assert {
 

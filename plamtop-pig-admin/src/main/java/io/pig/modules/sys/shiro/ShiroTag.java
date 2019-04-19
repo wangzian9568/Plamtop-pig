@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 /**
  * Shiro权限标签
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Component
 public class ShiroTag {

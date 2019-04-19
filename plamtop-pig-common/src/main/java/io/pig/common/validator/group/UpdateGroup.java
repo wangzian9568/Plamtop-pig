@@ -11,7 +11,7 @@ package io.pig.common.validator.group;
 /**
  * 更新数据 Group
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface UpdateGroup {
 

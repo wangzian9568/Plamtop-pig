@@ -11,7 +11,7 @@ package io.pig.modules.job.task;
 /**
  * 定时任务接口，所有定时任务都要实现该接口
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface ITask {
 

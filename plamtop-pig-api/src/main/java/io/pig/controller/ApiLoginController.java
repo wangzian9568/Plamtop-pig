@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 登录接口
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @RestController
 @RequestMapping("/api")

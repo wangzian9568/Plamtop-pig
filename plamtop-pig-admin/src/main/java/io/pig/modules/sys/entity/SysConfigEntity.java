@@ -17,7 +17,7 @@ import javax.validation.constraints.NotBlank;
 /**
  * 系统配置信息
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Data
 @TableName("sys_config")

@@ -11,7 +11,7 @@ package io.pig.common.utils;
 /**
  * 系统参数相关Key
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class ConfigConstant {
     /**

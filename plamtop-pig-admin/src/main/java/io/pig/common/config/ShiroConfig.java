@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * Shiro的配置文件
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Configuration
 public class ShiroConfig {

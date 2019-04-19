@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * 定时任务
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public interface ScheduleJobService extends IService<ScheduleJobEntity> {
 

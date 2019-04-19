@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 菜单管理
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @Data
 @TableName("sys_menu")

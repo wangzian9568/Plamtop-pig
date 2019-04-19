@@ -23,7 +23,7 @@ import springfox.documentation.annotations.ApiIgnore;
 /**
  * 测试接口
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 @RestController
 @RequestMapping("/api")

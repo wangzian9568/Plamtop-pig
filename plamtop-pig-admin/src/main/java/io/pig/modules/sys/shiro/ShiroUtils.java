@@ -19,7 +19,7 @@ import org.apache.shiro.subject.Subject;
 /**
  * Shiro工具类
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class ShiroUtils {
 	/**  加密算法 */

@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * IP地址
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class IPUtils {
 	private static Logger logger = LoggerFactory.getLogger(IPUtils.class);

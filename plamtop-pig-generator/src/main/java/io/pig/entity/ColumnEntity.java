@@ -11,7 +11,7 @@ package io.pig.entity;
 /**
  * 列的属性
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class ColumnEntity {
 	//列名

@@ -11,7 +11,7 @@ package io.pig.common.utils;
 /**
  * Redis所有Keys
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class RedisKeys {
 

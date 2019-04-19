@@ -15,7 +15,7 @@ import io.pig.common.exception.RRException;
 /**
  * SQL过滤
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark wangzian9568@163.com
  */
 public class SQLFilter {
 
